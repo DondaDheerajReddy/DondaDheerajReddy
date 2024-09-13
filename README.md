@@ -8,7 +8,7 @@
 
 ## 🚀 Skills
 * Frontend: HTML, CSS, JavaScript, ReactJS (in progress)
-* Backend: Node.js (beginner)
+* Backend: Node.js, ExpressJS, axios
 * Databases: SQL, postgSQL
 * Tools: Git, GitHub, VS Code
 
