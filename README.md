@@ -15,5 +15,10 @@
 ## 🎯 Goals
 * Contribute to open-source projects.
 * Build scalable web applications.
-* 
+* Improve my problem-solving abilities through competitive programming.
+
+## 📫 Get in Touch
+* Email: dheeraj2629@gmail.com
+* LinkedIn: https://www.linkedin.com/in/dheeraj-reddy-d-3b5122316
+
 
