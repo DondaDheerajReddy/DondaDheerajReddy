@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dheeraj! 👋
 
-<!--
-**DondaDheerajReddy/DondaDheerajReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+* 🏫 Education: Civil Engineering Undergraduate at IIT Hyderabad.
+* 👨‍💻 Interests: Full-stack web development, Open-source contribution, and mastering ReactJS.
+* 👥 Clubs & Communities:
+  * Working as an Associate in WEB for Finance and Consulting Club of IIT Hyderabad.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+* Frontend: HTML, CSS, JavaScript, ReactJS (in progress)
+* Backend: Node.js (beginner)
+* Databases: SQL, postgSQL
+* Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+* Contribute to open-source projects.
+* Build scalable web applications.
+* 
+
