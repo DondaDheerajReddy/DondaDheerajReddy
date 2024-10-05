@@ -1,3 +1,5 @@
+[![An image of @dondadheerajreddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dondadheerajreddy)](https://holopin.io/@dondadheerajreddy)
+
 # Hi, I'm Dheeraj! 👋
 
 ## 💻 About Me
