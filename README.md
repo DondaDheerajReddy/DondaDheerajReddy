@@ -4,12 +4,12 @@
 
 ## 💻 About Me
 * 🏫 Education: Civil Engineering Undergraduate at IIT Hyderabad.
-* 👨‍💻 Interests: Full-stack web development, Open-source contribution, and mastering ReactJS.
+* 👨‍💻 Interests: Full-stack web development, Open-source contribution, and Leetcoding.
 * 👥 Clubs & Communities:
   * Working as an Associate in WEB for Finance and Consulting Club of IIT Hyderabad.
 
 ## 🚀 Skills
-* Frontend: HTML, CSS, JavaScript, ReactJS (in progress)
+* Frontend: HTML, CSS, JavaScript, ReactJS
 * Backend: Node.js, ExpressJS, axios
 * Databases: SQL, postgSQL
 * Tools: Git, GitHub, VS Code
