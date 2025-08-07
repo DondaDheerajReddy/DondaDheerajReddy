@@ -11,7 +11,7 @@
 ## 🚀 Skills
 * Frontend: HTML, CSS, JavaScript, TypeScript, ReactJS
 * Backend: Node.js, ExpressJS, axios
-* Databases: SQL, postgSQL
+* Databases: SQL, postgSQL, mySQL
 * Tools: Git, GitHub, VS Code
 
 ## 🎯 Goals
