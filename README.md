@@ -9,13 +9,12 @@
   * Worked as an Associate in WEB for Finance and Consulting Club of IIT Hyderabad.
 
 ## 🚀 Skills
-* Frontend: HTML, CSS, JavaScript, TypeScript, ReactJS
+* Frontend: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS
 * Backend: Node.js, ExpressJS, axios
 * Databases: SQL, postgSQL, mySQL
-* Tools: Git, GitHub, VS Code
+* Tools: Git, GitHub, VS Code, Postman
 
 ## 🎯 Goals
-* Contribute to open-source projects.
 * Build scalable web applications.
 * Improve my problem-solving abilities through competitive programming.
 
