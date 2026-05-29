@@ -1,5 +1,3 @@
-[![An image of @dondadheerajreddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dondadheerajreddy)](https://holopin.io/@dondadheerajreddy)
-
 # Hi, I'm Dheeraj! 👋
 
 ## 💻 About Me
@@ -21,5 +19,3 @@
 ## 📫 Get in Touch
 * Email: dheeraj2629@gmail.com
 * LinkedIn: https://www.linkedin.com/in/dheeraj-reddy-d-3b5122316
-
-
