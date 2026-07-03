@@ -9,8 +9,8 @@
 ## 🚀 Skills
 * Frontend: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS
 * Backend: Node.js, ExpressJS, axios
-* Databases: SQL, postgSQL, mySQL
-* Tools: Git, GitHub, VS Code, Postman
+* Databases: SQL, PostgreSQL, MySQL, SQLite
+* Tools: Git, GitHub, VS Code, Postman, Docker
 
 ## 🎯 Goals
 * Build scalable web applications.
